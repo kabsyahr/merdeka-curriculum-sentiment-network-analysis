@@ -86,6 +86,17 @@ Public discussion was dominated by **neutral and negative sentiment**, while pos
 
 The network analysis also showed that highly mentioned accounts were not always the same actors functioning as bridges between communities, highlighting different forms of influence within the discussion network.
 
+## Results Visualization
+
+### Sentiment Classification Performance
+![Model Performance Comparison](images/model_performance_comparison.png)
+
+### Sentiment Trend Over Time
+![Sentiment Trend](images/sentiment_trend.png)
+
+### Social Network Visualization
+![Social Network Visualization](images/network_visualization.png)
+
 ## Tools & Technologies
 
 - Python
